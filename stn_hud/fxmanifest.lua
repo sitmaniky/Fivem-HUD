@@ -1,8 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
-author 'Dannydoodmantv'
-description 'Roleplay Hud w/ Hunger, Thirst'
+author 'ToKyoV2'
+description 'Roleplay Hud w/ Hunger, Thirst, Armor, Health'
 version '1.0.0'
 
 client_scripts {
@@ -18,4 +18,3 @@ files {
 	"html/img/*.svg",
 	"html/index.html",
 }
-client_script "@Badger-Anticheat/acloader.lua"
